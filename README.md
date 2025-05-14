@@ -157,7 +157,9 @@ p.note { display: none; }
 <a href="20250513_007.JPG" target="_blank"><img src="20250513_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250513_008.JPG" target="_blank"><img src="20250513_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250513_009.JPG" target="_blank"><img src="20250513_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250513_010.JPG" target="_blank"><img src="20250513_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">画像のクリック↓で公園のGoogleMapsに飛びます</span></h2>
+<a href="https://maps.app.goo.gl/WHWGRKYMN5mny1EN7" target="_blank"><img src="20250513_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250513_011.JPG" target="_blank"><img src="20250513_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250513_012.JPG" target="_blank"><img src="20250513_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250513_013.JPG" target="_blank"><img src="20250513_013.JPG" alt="サンプル画像" width="900" /></a>
