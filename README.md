@@ -98,6 +98,8 @@ screen and (orientation: landscape) {
 p.note { display: none; }
 }
 
+/* 既存のCSSの後またはどこかに追加してください */ a { color: red; /* お好みで */ text-decoration: none; } a:hover { text-decoration: underline; /* ホバー時に下線を表示したい場合 */ }
+
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
