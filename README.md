@@ -20,6 +20,7 @@ color: #fffafa;
 font-size: 1.5em;
 }
 
+text-decoration: none;
 
 .red {color:#ff0000;}
 .grey {color:#ffffff; background:#999999;}
@@ -97,8 +98,6 @@ width: 800px;
 screen and (orientation: landscape) {
 p.note { display: none; }
 }
-
-text-decoration: none;
 
 </style>
 
