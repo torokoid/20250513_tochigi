@@ -76,7 +76,8 @@ background:url(https://torokoid.github.io/20250513_tochigi/20250513_003.JPG) cen
 }
 
 /* リンクに下線を付けない */ 
-a { color: red; text-decoration: none; } a:hover { text-decoration: underline; } 
+a { color: red; text-decoration: none; } 
+a:hover { text-decoration: none; } 
 
 a.p:hover {
 position: relative;
