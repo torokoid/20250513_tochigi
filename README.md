@@ -20,8 +20,6 @@ color: #fffafa;
 font-size: 1.5em;
 }
 
-text-decoration: none;
-
 .red {color:#ff0000;}
 .grey {color:#ffffff; background:#999999;}
 .snow {color:#fffafa;}
@@ -76,6 +74,9 @@ height:100vh;
 background:url(https://torokoid.github.io/20250513_tochigi/20250513_003.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
+
+/* リンクに下線を付けない */ 
+a { color: red; text-decoration: none; } a:hover { text-decoration: underline; } 
 
 a.p:hover {
 position: relative;
