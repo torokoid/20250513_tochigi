@@ -18,6 +18,7 @@
 p {
 color: #fffafa;
 font-size: 1.5em;
+text-decoration: none; 
 }
 
 .red {color:#ff0000;}
@@ -76,7 +77,7 @@ background:url(https://torokoid.github.io/20250513_tochigi/20250513_003.JPG) cen
 }
 
 /* リンクに下線を付けない */ 
-a { color: red; text-decoration: none; } 
+a {text-decoration: none; } 
 a:hover { text-decoration: none; } 
 
 a.p:hover {
