@@ -98,7 +98,7 @@ screen and (orientation: landscape) {
 p.note { display: none; }
 }
 
-/* 既存のCSSの後またはどこかに追加してください */ a { color: red; /* お好みで */ text-decoration: none; } a:hover { text-decoration: underline; /* ホバー時に下線を表示したい場合 */ }
+text-decoration: none;
 
 </style>
 
